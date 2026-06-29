@@ -10,6 +10,13 @@ Unlike traditional project documentation, this repository captures not only the 
 
 ---
 
+## 📖 Documentation Quick Access
+
+*   👉 **[Architecture Summary & Diagrams](system_architecture_summary.md)**: High-level overview of the entire system architecture, RAG pipelines, AI router mechanics, and user lifecycle complete with high-resolution visual diagrams.
+*   👉 **[Full Documentation Index](architecture/00_index.md)**: Direct links to the detailed 33-section engineering audits covering every folder, backend service, database table, RAG chunking configuration, security check, and performance tuning details.
+
+---
+
 ## What This Repository Contains
 
 The documentation covers every major subsystem of ResearchAI, including:
