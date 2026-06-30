@@ -133,3 +133,9 @@ All documentation should be:
 The goal is to maintain a living engineering knowledge base that evolves alongside ResearchAI. Every architectural change, new feature, infrastructure update, or AI workflow enhancement should be reflected here to ensure the documentation remains a reliable representation of the platform.
 
 Ultimately, this repository should enable anyone to understand how ResearchAI works—from the login screen to the deepest AI pipelines—without needing to reverse-engineer the source code.
+
+
+
+
+
+kaiwlya Ajit Gunjal
